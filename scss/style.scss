@@ -1,0 +1,15 @@
+body {
+    background: rgba(16, 31, 35, 1);
+
+  }
+  
+  [draggable] {
+    cursor: move;
+  }
+  
+  p {
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgba(255, 255, 255, .7);
+    font-size: 2em;
+    z-index: -1;
+  }
