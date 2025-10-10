@@ -20,4 +20,109 @@ p {
   z-index: 5;
 }
 
+#eyes1 {
+  position: absolute;
+  left: 91px;
+  top: 259px;
+  z-index: 5;
+}
+
+#eyes2 {
+  position: absolute;
+  left: 84px;
+  top: 525px;
+  z-index: 5;
+}
+
+#eyes3 {
+  position: absolute;
+  left: 95px;
+  top: 169px;
+  z-index: 5;
+}
+
+#eyes4 {
+  position: absolute;
+  left: 81px;
+  top: 416px;
+  z-index: 5;
+}
+
+#eyes5 {
+  position: absolute;
+  left: 97px;
+  top: 343px;
+  z-index: 5;
+}
+
+#mouth1 {
+  position: absolute;
+  left: 807px;
+  top: 537px;
+  z-index: 5;
+}
+
+#mouth2 {
+  position: absolute;
+  left: 816px;
+  top: 429px;
+  z-index: 5;
+}
+
+#mouth3 {
+  position: absolute;
+  left: 832px;
+  top: 233px;
+  z-index: 5;
+}
+
+#mouth4 {
+  position: absolute;
+  left: 828px;
+  top: 324px;
+  z-index: 5;
+}
+
+#mouth5 {
+  position: absolute;
+  left: 869px;
+  top: 158px;
+  z-index: 5;
+}
+
+#nose1 {
+  position: absolute;
+  left: 342px;
+  top: 589px;
+  z-index: 5;
+}
+
+#nose2 {
+  position: absolute;
+  left: 464px;
+  top: 595px;
+  z-index: 5;
+}
+
+#nose3 {
+  position: absolute;
+  left: 624px;
+  top: 603px;
+  z-index: 5;
+}
+
+#nose4 {
+  position: absolute;
+  left: 408px;
+  top: 589px;
+  z-index: 5;
+}
+
+#nose5 {
+  position: absolute;
+  left: 553px;
+  top: 595px;
+  z-index: 5;
+}
+
 /*# sourceMappingURL=style.css.map */
