@@ -1,1 +1,1 @@
-# DSEIGN-halloween-build-your-own-lantern
+# DESIGN Your own lantern head
