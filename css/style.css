@@ -13,4 +13,11 @@ p {
   z-index: -1;
 }
 
+#pumpkin {
+  position: absolute;
+  left: 354px;
+  top: 263px;
+  z-index: 5;
+}
+
 /*# sourceMappingURL=style.css.map */
