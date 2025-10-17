@@ -73,7 +73,7 @@ p {
 
 #eyes8 {
   position: absolute;
-  left: 25%;
+  left: 370px;
   top: 169px;
   z-index: 5;
   width: 150px;
@@ -81,7 +81,7 @@ p {
 
 #eyes9 {
   position: absolute;
-  left: 27%;
+  left: 370px;
   top: 90px;
   z-index: 5;
   width: 100px;
@@ -89,7 +89,7 @@ p {
 
 #eyes10 {
   position: absolute;
-  left: 27%;
+  left: 370px;
   top: 30px;
   z-index: 5;
   width: 100px;
@@ -97,7 +97,7 @@ p {
 
 #eyes11 {
   position: absolute;
-  left: 11%;
+  left: 100px;
   top: 30px;
   z-index: 5;
   width: 100px;
@@ -223,7 +223,7 @@ p {
 
 #nose6 {
   position: absolute;
-  left: 49%;
+  left: 680px;
   top: 605px;
   z-index: 5;
   width: 30px;
